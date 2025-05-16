@@ -1,0 +1,15 @@
+h1{
+
+    font-size: 45px;
+    font-family:fantasy;
+    color: rgb(255, 212, 20);
+    text-shadow: rgba(153, 0, 255, 0.954);
+    text-align: center;
+    //outline-style:groove; 
+    //outline-width: 10px;
+    //outline-color: rgb(255, 0, 200);
+    padding: 250px;
+    text-shadow: 2px 2px rebeccapurple;
+      text-shadow: 2px 2px 4px #000000;
+border-radius: 25px;
+}
